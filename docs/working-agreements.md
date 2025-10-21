@@ -32,3 +32,18 @@ Meeting Etiquette
 - Make sure you arrive with a clear agenda of what we will be doing in the Lab
 - Respect other peoples schedules by ending and begenning meetings on time
 
+## End Summary (Mini Discussion)
+Annike
+- Better UI Layout
+- Adding filters to find genres of movies (Reccomended, Horror, etc)
+
+Michelle
+- Font styles
+
+Shnoram
+- Fixing the margins for the images and texts to represent a cleaner visual look.
+-Search tab to find specific movies
+
+Fatoumata
+- Not Present (2025/10/21)
+
